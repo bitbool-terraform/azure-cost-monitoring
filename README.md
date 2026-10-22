@@ -1,3 +1,10 @@
+### Changelog
+
+| Version    | Changes |
+| -------- | ------- |
+| v1.0.0  | First stable.   |
+
+
 ```hcl
 module "cost_monitoring" {
   source = "../../modules/cost-monitoring"
