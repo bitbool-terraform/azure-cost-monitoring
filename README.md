@@ -1,4 +1,4 @@
-```terraform
+```hcl
 module "cost_monitoring" {
   source = "../../modules/cost-monitoring"
 
